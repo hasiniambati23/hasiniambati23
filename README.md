@@ -2,21 +2,18 @@
 
 🎓 I'm a 2nd Year B.Tech Student – Computer Science (Artificial Intelligence)  
 🏫 G. Pullaiah College of Engineering and Technology  
-📍 India  
- 
-
+📍 India 
 ## 🚀 About Me
 I am an Artificial Intelligence student who is passionate about learning programming and applying technology to solve real-world problems.
 
 ## 📚 Currently Learning:
-•	C programming
-• DSA
-• Python
-• Web development(HTML,CSS & JAVASCRIPT)
-• Git & GitHub
-• Java
-•Basics of Machine Learning and AI
-
+- C programming
+- DSA
+- Python
+- Web development(HTML,CSS & JAVASCRIPT)
+- Git & GitHub
+- Java
+- Basics of Machine Learning and AI
 
 ## 💡 Interests
 - Artificial Intelligence & Machine Learning  
@@ -24,17 +21,14 @@ I am an Artificial Intelligence student who is passionate about learning program
 - Solving real-world problems  
 - Competitive Programming (HackerRank, LeetCode)  
 
-
 ## 🎯 Career Goal
 To become a skilled **AI / ML Engineer** and secure a good role through continuous learning, projects, and internships.
-
 
 ## 📫 Connect With Me
 - 📧 Email: hasiniambati200@gmail.com
 
 ## ⚡ Fun fact: 
 - I believe consistency matters more than speed when learning programming.
-
 
 ✨ *Learning today to build a better tomorrow.*
 
